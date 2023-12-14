@@ -1,6 +1,7 @@
 <?php
 
-$rootDirectory = $_SERVER['DOCUMENT_ROOT'] ; 
+//$rootDirectory = $_SERVER['DOCUMENT_ROOT'] ; 
+$rootDirectory ="/home/iswifnxr/sa.iswib.com";
 require($rootDirectory . "/wp-load.php");
     global $wpdb; 
 
